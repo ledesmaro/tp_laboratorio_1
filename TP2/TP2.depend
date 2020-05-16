@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1589659520 source:c:\codeblocks\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"employees.h"
+	"utn.h"
+
+1589661820 c:\codeblocks\tp2\employees.h
+
+1589660175 source:c:\codeblocks\tp2\employees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"employees.h"
+	"utn.h"
+
+1589659522 source:c:\codeblocks\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1589660664 c:\codeblocks\tp2\utn.h
+
